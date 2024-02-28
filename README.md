@@ -1,0 +1,1 @@
+This is a first trial of creating a ai assistance that auto correct my notes .
